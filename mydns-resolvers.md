@@ -12,7 +12,7 @@ To use this list, add this to the `[sources]` section of your `dnscrypt-proxy.to
     prefix = ''
 
 --
-## mydns-doh-ipv4
+## mydns
 Custom DoH resolver with IPv4 support.
 Homepage: https://mydoh-production.up.railway.app/dns-query
 sdns://AgAAAAAAAAAAAAAfbXlkb2gtcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcAovZG5zLXF1ZXJ5
